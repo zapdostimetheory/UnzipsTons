@@ -5,6 +5,8 @@ This is a simple little application that I wrote quickly because I wanted to unz
 
 This was helpful for me on a couple of occasions, so making this public. 
 
-It is very rudimentary: you have to edit the source in order to change the source/destination folders. This is an intentional choice as this has no error handling whatsoever. 
+It is very rudimentary: you have to edit the source in order to change the source/destination folders. This is an intentional choice as this has no error handling whatsoever. If I feel up to it, I'll actually make it interactable in a future date. 
 
 In order to run the program, enter into a python terminal of your choosing, and manually type "UnzipsTons.py" to run the program.
+
+Enjoy!
