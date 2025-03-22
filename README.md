@@ -1,5 +1,5 @@
 # UnzipsTons
-This Python application will unzip all .zip files in a folder, and unzip them to a destination of your choosing.
+This Python application will unzip all .zip files in a folder, and take all contents to a destination of your choosing.
 
 This is a simple little application that I wrote quickly because I wanted to unzip a bunch of game files from one folder and put the contents of all zip files into a completely different directory, on a different hard drive. 
 
