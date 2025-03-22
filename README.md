@@ -7,4 +7,4 @@ This was helpful for me on a couple of occasions, so making this public.
 
 It is very rudimentary: you have to edit the source in order to change the source/destination folders. This is an intentional choice as this has no error handling whatsoever. 
 
-Enjoy!
+In order to run the program, enter into a python terminal of your choosing, and manually type "UnzipsTons.py" to run the program.
